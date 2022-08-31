@@ -1,5 +1,5 @@
 {
-  "name": "Json Wizard: Json the easy way. For Mac.",
+  "name": "JSON Wizard: JSON, the easy way. For Mac.",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -38,7 +38,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "Json Wizard",
+  "short_name": "JSON Wizard",
   "description": "Edit, visualize, export - The ultimate JSON-driven Data Management app.",
   "start_url": "/",
   "display": "standalone"

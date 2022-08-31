@@ -1,7 +1,7 @@
 <p align=center>
   <img height="150px" src="https://github.com/enSili-co/json wizard/raw/main/images/logo.png"/>
 </p>
-<h1 align=center>Json Wizard for Mac</h1>
+<h1 align=center>JSON Wizard for Mac</h1>
 <p align=center>
   Edit, visualize, export:<br><br>The ultimate JSON-driven Data Management app.
 </p>
