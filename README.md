@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>JSON Wizard for Mac</h1>
 <p align=center>
-  Edit, visualize, export:<br><br>The ultimate JSON-driven Data Management app.
+  Edit. Visualize. Export.<br><br>The ultimate JSON-driven Data Management app.
 </p>
 
 

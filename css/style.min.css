@@ -214,10 +214,10 @@ header {
 /* FEATURES
 ----------------------*/
 .gradient-fill:before {
-  color: #95a95b;
-  background: -moz-linear-gradient(top, #788948 0%, #95a95b 100%);
-  background: -webkit-linear-gradient(top, #788948 0%, #95a95b 100%);
-  background: linear-gradient(to bottom, #788948 0%, #95a95b 100%);
+  color: #a20e85;
+  background: -moz-linear-gradient(top, #730a5e 0%, #a20e85 100%);
+  background: -webkit-linear-gradient(top, #730a5e 0%, #a20e85 100%);
+  background: linear-gradient(to bottom, #730a5e 0%, #a20e85 100%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent; }
@@ -238,10 +238,10 @@ header {
   content: "";
   position: absolute;
   width: 3px;
-  color: #95a95b;
-  background: -moz-linear-gradient(top, #788948 0%, #95a95b 100%);
-  background: -webkit-linear-gradient(top, #788948 0%, #95a95b 100%);
-  background: linear-gradient(to bottom, #788948 0%, #95a95b 100%);
+  color: #a20e85;
+  background: -moz-linear-gradient(top, #730a5e 0%, #a20e85 100%);
+  background: -webkit-linear-gradient(top, #730a5e 0%, #a20e85 100%);
+  background: linear-gradient(to bottom, #730a5e 0%, #a20e85 100%);
   top: 0;
   bottom: 0;
   left: 0; }
