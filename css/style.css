@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.light-bg {
+  background-color: #f4f4f4 !important;
+}
+
 /*
 
 Style   : MobApp CSS
@@ -218,10 +222,10 @@ header {
 }
 
 .bg-gradient {
-  background-image: -moz-linear-gradient(135deg, #406b79 0%, #0E86A2 100%);
-  background-image: -webkit-linear-gradient(135deg, #406b79 0%, #0E86A2 100%);
-  background-image: -ms-linear-gradient(135deg, #406b79 0%, #0E86A2 100%);
-  background-image: linear-gradient(135deg, #406b79 0%, #0E86A2 100%);
+  background-image: -moz-linear-gradient(135deg, #000 0%, #0E86A2 100%);
+  background-image: -webkit-linear-gradient(135deg, #000 0%, #0E86A2 100%);
+  background-image: -ms-linear-gradient(135deg, #000 0%, #0E86A2 100%);
+  background-image: linear-gradient(135deg, #000 0%, #0E86A2 100%);
 }
 
 .tagline {
