@@ -15,7 +15,7 @@
 
 # Official Website
 
-▶︎ https://jsonwizard.app
+▶︎ https://ensili.co/app/jsonwizard
 
 # Issues
 
