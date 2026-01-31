@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/jsonwizard/jsonwizard-2.6.2.zip
+▶︎ https://cdn.ensili.co/app/jsonwizard/download/jsonwizard-2.6.2.zip
 
 # Official Website
 
